@@ -41,9 +41,9 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **denuncia\_fecha (date)**: fecha en que se atendió el llamado. Formato AAAA-MM-DD.
+-   **denuncia_fecha (date)**: fecha en que se atendió el llamado. Formato AAAA-MM-DD.
 
--   **denuncia\_tipo\_explotacion**: refiere al tipo de explotación a que refiere la denuncia. A qué tipo de explotación hace referencia la denuncia. Puede tomar los valores:
+-   **denuncia_tipo_explotacion**: refiere al tipo de explotación a que refiere la denuncia. A qué tipo de explotación hace referencia la denuncia. Puede tomar los valores:
 
     -   Explotación sexual
 
@@ -61,7 +61,7 @@ Recursos disponibles
 
     -   Secuestro/Venta de niños/pornografía infantil Otros
 
--   **denuncia\_via\_ingreso:** medio a través del cual ingresa la denuncia
+-   **denuncia_via_ingreso:** medio a través del cual ingresa la denuncia
 
     -   Línea 145
 
@@ -71,7 +71,7 @@ Recursos disponibles
 
     -   Presencial
 
--   **denunciante\_tipo\_acercamiento:** refiere a cómo el denunciante conoció la línea 145 o el Programa
+-   **denunciante_tipo_acercamiento:** refiere a cómo el denunciante conoció la línea 145 o el Programa
 
     -   TV
 
@@ -89,9 +89,9 @@ Recursos disponibles
 
     -   Otros
 
--   **llamante\_tipo (string):** indica quién realiza el llamado. Puede indicar personas (víctima, vecino) o instituciones (policía, hospital).
+-   **llamante_tipo (string):** indica quién realiza el llamado. Puede indicar personas (víctima, vecino) o instituciones (policía, hospital).
 
--   **llamante\_genero (string):** género de quien realiza el llamado. Puede tomar los valores:
+-   **llamante_genero (string):** género de quien realiza el llamado. Puede tomar los valores:
 
     -   Masculino
 
@@ -101,7 +101,7 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
--   **llamante\_rango\_etario (string):** rango etario del llamante. Puede tomar los valores:
+-   **llamante_rango_etario (string):** rango etario del llamante. Puede tomar los valores:
 
     -   1 a 5 años
 
@@ -121,15 +121,15 @@ Recursos disponibles
 
     -   Sin datos
 
--   **hecho\_localidad (string):** localidad en la cual ocurrió el hecho denunciado.
+-   **hecho_localidad (string):** localidad en la cual ocurrió el hecho denunciado.
 
--   **hecho\_provincia (string):** provincia en la cual ocurrió el hecho denunciado.
+-   **hecho_provincia (string):** provincia en la cual ocurrió el hecho denunciado.
 
--   **hecho\_pais (string):** provincia en la cual ocurrió el hecho denunciado.
+-   **hecho_pais (string):** provincia en la cual ocurrió el hecho denunciado.
 
--   **hecho\_denuncia\_previa (string):** toma el valor Sí cuando se conoce que se había realizado una denuncia anterior sobre el hecho.
+-   **hecho_denuncia_previa (string):** toma el valor Sí cuando se conoce que se había realizado una denuncia anterior sobre el hecho.
 
--   **derivacion\_judicializacion\_organismo (string):** toma el valor Sí cuando se conoce que se había realizado una denuncia anterior sobre el hecho. Toma los valores:
+-   **derivacion_judicializacion_organismo (string):** toma el valor Sí cuando se conoce que se había realizado una denuncia anterior sobre el hecho. Toma los valores:
 
     -   Ministerio de Seguridad.
 
@@ -171,7 +171,8 @@ Se considera a la trata de personas como una de las modernas formas de esclavitu
 
 Desde el plano humanitario, se hablará de la existencia de una relación de sujeción especial entre el autor y la víctima; un binomio sujeto-objeto donde esta última será considerada –por el autor- como una cosa. Finalmente y en consecuencia, la trata de personas constituye una vulneración y avasallamiento de los derechos humanos en general y de la libertad en particular.
 
-En cumplimento con las obligaciones internacionalmente contraídas, el Estado Nacional tipificó el delito de Trata de Personas en el **Libro II, Título V del [Código Penal](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm), en sus art. 145bis y 145ter.** Fue introducido originalmente mediante la **ley 26.364,** sancionada el día 29 de abril del año 2008, y luego modificada el 26 de diciembre del año 2012, mediante la **ley 26.842**, actualmente en vigencia.
+En cumplimento con las obligaciones internacionalmente contraídas, el Estado Nacional tipificó el delito de Trata de Personas en el **Libro II, Título V del [Código Penal](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm), en sus art. 145bis y 145ter.** Fue introducido originalmente mediante la [Ley 26.364](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140100/norma.htm), sancionada el día 29 de abril del año 2008, y luego modificada el 26 de diciembre del año 2012, mediante la [Ley 26.842](http://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/206554/norma.htm)
+, actualmente en vigencia.
 
 La trata de personas se estructura a través de dos elementos, como son las acciones (ofrecer, captar, trasladar, recibir y acoger) y una determinada finalidad de explotación; la cual no requiere ser concretada para tener por consumado el delito, puesto que este se configura siempre y cuando se realice alguna de conductas (acciones) con cualquiera de las finalidades de explotación mencionadas por la ley.
 
