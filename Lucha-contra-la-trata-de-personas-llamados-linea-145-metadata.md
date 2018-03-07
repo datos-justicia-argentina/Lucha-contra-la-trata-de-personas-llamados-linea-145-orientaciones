@@ -167,11 +167,11 @@ Recursos disponibles
 
 [Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Italia, Palermo 2000)](https://www.unodc.org/documents/treaties/UNTOC/Publications/TOC%20Convention/TOCebook-s.pdf)
 
-A partir de allí, se sentaron las bases para considerar a la trata de personas como una de las modernas formas de esclavitud, que genera un comercio humano garantizándole a los autores ganancias económicas similares a las obtenidas respecto del tráfico de estupefacientes y el tráfico ilegal de armas.
+Se considera a la trata de personas como una de las modernas formas de esclavitud, que genera un comercio humano garantizándole a los autores ganancias económicas similares a las obtenidas respecto del tráfico de estupefacientes y el tráfico ilegal de armas.
 
 Desde el plano humanitario, se hablará de la existencia de una relación de sujeción especial entre el autor y la víctima; un binomio sujeto-objeto donde esta última será considerada –por el autor- como una cosa. Finalmente y en consecuencia, la trata de personas constituye una vulneración y avasallamiento de los derechos humanos en general y de la libertad en particular.
 
-Por lo dicho y en cumplimento con las obligaciones internacionalmente contraídas, el Estado Nacional tipificó el delito de Trata de Personas en el **Libro II, Título V del Código Penal, en sus art. 145bis y 145ter.** Fue introducido originalmente mediante la **ley 26.364,** sancionada el día 29 de abril del año 2008, y luego modificada el 26 de diciembre del año 2012, mediante la **ley 26.842**\[1\], actualmente en vigencia.
+En cumplimento con las obligaciones internacionalmente contraídas, el Estado Nacional tipificó el delito de Trata de Personas en el **Libro II, Título V del Código Penal, en sus art. 145bis y 145ter.** Fue introducido originalmente mediante la **ley 26.364,** sancionada el día 29 de abril del año 2008, y luego modificada el 26 de diciembre del año 2012, mediante la **ley 26.842**\[1\], actualmente en vigencia.
 
 La trata de personas se estructura a través de dos elementos, como son las acciones (ofrecer, captar, trasladar, recibir y acoger) y una determinada finalidad de explotación; la cual no requiere ser concretada para tener por consumado el delito, puesto que este se configura siempre y cuando se realice alguna de conductas (acciones) con cualquiera de las finalidades de explotación mencionadas por la ley.
 
