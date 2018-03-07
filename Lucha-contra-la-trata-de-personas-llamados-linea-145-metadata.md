@@ -3,7 +3,7 @@ Lucha contra la trata de personas - Llamados línea 145
 
 Este conjunto de datos contiene las llamadas atendidas por personal técnico del Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata, de la Línea 145, con licenciaturas en Psicología o Trabajo Social, especializado en la escucha y la recepción. Se trata de un número de llamada gratuita, de alcance nacional, en el cual la atención está garantizada las 24hs. los 365 días del año, y que está facultado para recibir denuncias, relacionadas con el delito de Trata de Personas. Las mismas pueden realizarse en forma anónima a los fines de preservar la identidad de los denunciantes.
 
-La República Argentina ha incorporado el delito de Trata de Personas puesto que se contrajo como una obligación internacional en la Ratificación del Protocolo para Prevenir, Reprimir y Sancionar la Trata de Personas, especialmente Mujeres y Niños, el cual complementa la Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Italia, Palermo 2000).
+La República Argentina ha incorporado el delito de Trata de Personas puesto que se contrajo como una obligación internacional en la Ratificación del Protocolo para Prevenir, Reprimir y Sancionar la Trata de Personas, especialmente Mujeres y Niños, el cual complementa la [Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Italia, Palermo 2000](https://www.unodc.org/documents/treaties/UNTOC/Publications/TOC%20Convention/TOCebook-s.pdf)
 
 http://datos.jus.gob.ar/dataset/lucha-contra-la-trata-de-personas -linea-145
 
@@ -189,7 +189,7 @@ Por lo tanto, la Trata de Personas es un delito de resultado anticipado o recort
 
 **Acoger**: hospedar, alojar, esconder, brindar protección física al damnificado.
 
-*MODALIDADES DE EXPLOTACIÖN:*
+*MODALIDADES DE EXPLOTACIÓN:*
 
 **Explotación laboral:**
 
@@ -275,7 +275,7 @@ En relación a este último punto, agravan la escala penal, *en referencia a la 
 
 3.  **Desaparición de Personas:** la desaparición de una persona puede comprender la configuración de delitos complejos y múltiples. Se conjuga en muchos casos con el deber de prevenir, investigar y sancionar el delito de trata de personas, asumido mediante la firma del Protocolo de Palermo, adicional de la Convención contra la Delincuencia Trasnacional Organizada. En efecto, la trata de personas en tanto instancia de reclutamiento, traslado y recepción con fines de constituir una relación de explotación de seres humanos (en cualquiera de sus variables) es un proceso compatible con la desaparición, alejamiento, ocultamiento, etc. de una persona respecto de su entorno familiar y personal (núcleo social de base)
 
-4.  **Publicidad de Oferta Sexual:** el [Decreto 936/2011](http://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184133/norma.htm) dice: “Se prohíben los avisos que promuevan la oferta sexual, con la explícita o implícita referencia a la solicitud de personas destinadas al comercio sexual por cualquier medio, con la finalidad de prevenir el delito de trata de personas con fines de explotación sexual y la paulatina eliminación de las formas de discriminación de las mujeres”. *El Decreto 936 reglamenta la Ley 26.364 de Prevención y Sanción de Trata de Personas (2008).* En este aspecto, los fundamentos del decreto puntualizan que la trata de personas es un fenómeno global, y que junto con el tráfico de drogas y armas es una de las actividades ilegales más lucrativas. En este punto, considera crucial estos avisos como elementos que estimulan por una parte la explotación sexual de personas (oferta) como la captación de víctimas de trata de personas (demanda sexual de personas).
+4.  **Publicidad de Oferta Sexual:** el [Decreto 936/2011](http://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184133/norma.htm) dice: “Se prohíben los avisos que promuevan la oferta sexual, con la explícita o implícita referencia a la solicitud de personas destinadas al comercio sexual por cualquier medio, con la finalidad de prevenir el delito de trata de personas con fines de explotación sexual y la paulatina eliminación de las formas de discriminación de las mujeres”. *El [Decreto 936/2011](http://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184133/norma.htm) reglamenta la [Ley 26.364](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140100/norma.htm) de Prevención y Sanción de Trata de Personas (2008).* En este aspecto, los fundamentos del decreto puntualizan que la trata de personas es un fenómeno global, y que junto con el tráfico de drogas y armas es una de las actividades ilegales más lucrativas. En este punto, considera crucial estos avisos como elementos que estimulan por una parte la explotación sexual de personas (oferta) como la captación de víctimas de trata de personas (demanda sexual de personas).
 
 5.  **Oferta Laboral engañosa:** posible método de captación agravado.
 
