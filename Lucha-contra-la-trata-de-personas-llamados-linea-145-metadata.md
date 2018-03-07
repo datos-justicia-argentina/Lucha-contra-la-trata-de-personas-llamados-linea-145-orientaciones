@@ -171,8 +171,7 @@ Se considera a la trata de personas como una de las modernas formas de esclavitu
 
 Desde el plano humanitario, se hablará de la existencia de una relación de sujeción especial entre el autor y la víctima; un binomio sujeto-objeto donde esta última será considerada –por el autor- como una cosa. Finalmente y en consecuencia, la trata de personas constituye una vulneración y avasallamiento de los derechos humanos en general y de la libertad en particular.
 
-En cumplimento con las obligaciones internacionalmente contraídas, el Estado Nacional tipificó el delito de Trata de Personas en el **Libro II, Título V del [Código Penal](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm), en sus art. 145bis y 145ter.** Fue introducido originalmente mediante la [Ley 26.364](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140100/norma.htm), sancionada el día 29 de abril del año 2008, y luego modificada el 26 de diciembre del año 2012, mediante la [Ley 26.842](http://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/206554/norma.htm)
-, actualmente en vigencia.
+En cumplimento con las obligaciones internacionalmente contraídas, el Estado Nacional tipificó el delito de Trata de Personas en el **Libro II, Título V del [Código Penal](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm), en sus art. 145bis y 145ter.** Fue introducido originalmente mediante la [Ley 26.364](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140100/norma.htm), sancionada el día 29 de abril del año 2008, y luego modificada el 26 de diciembre del año 2012, mediante la [Ley 26.842](http://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/206554/norma.htm), actualmente en vigencia.
 
 La trata de personas se estructura a través de dos elementos, como son las acciones (ofrecer, captar, trasladar, recibir y acoger) y una determinada finalidad de explotación; la cual no requiere ser concretada para tener por consumado el delito, puesto que este se configura siempre y cuando se realice alguna de conductas (acciones) con cualquiera de las finalidades de explotación mencionadas por la ley.
 
@@ -216,7 +215,7 @@ Inc. f) “Cuando se promoviere, facilitare o comercializare la extracción forz
 
 De esta manera, el tipo penal del art. 145 bis queda cumplido con la captación, traslado, acogimiento, recepción u ofrecimiento de una persona con finalidad de explotación. En líneas generales, la antigua ley 23.643 contaba con estas acciones, pero exigía, para la tipificación del delito, que el autor se valiera de mecanismos específicos, llamados medios comisivos, para el logro de los verbos.
 
-No obstante, estos mecanismos mediante los cuales el autor obtendría el consentimiento de la víctima conservan su plena vigencia, en tanto que - ley 26.842 - constituyen agravantes del tipo básico, y son enunciados en el art 145ter del Código Penal.
+No obstante, estos mecanismos mediante los cuales el autor obtendría el consentimiento de la víctima conservan su plena vigencia, en tanto que - [Ley 26.842](http://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/206554/norma.htm) - constituyen agravantes del tipo básico, y son enunciados en el art 145ter del Código Penal.
 
 Por lo tanto, de acuerdo a la ley 26.842, no interesa si la víctima es mayor o menor de 18 años, puesto que el consentimiento de ésta no constituirá en ningún caso causal de eximición de responsabilidad. Este cambio, de trascendental importancia, se sustenta en la premisa de que ningún ser humano puede consentir la degradación de su dignidad.
 
