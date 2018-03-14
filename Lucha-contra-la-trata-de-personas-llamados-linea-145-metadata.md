@@ -304,3 +304,5 @@ Art. 145 ter: “En los supuestos del artículo 145 bis la pena será de cinco (
 **Relacionada:** conforman esta categoría las denuncias que por circunstancias relatadas se encuentran conectadas subjetiva y/u objetivamente con alguna denuncia ya canalizada. En este caso, la denuncia nueva es considerada como un hecho nuevo, no obstante esté relacionado.
 
 **Ampliatoria:** las denuncias que constituyen “ampliaciones” son aquellas que agregan o precisan información relativa a hechos que ya han sido informados con anterioridad, y con los cuales se ha realizó la denuncia pertinente. Para considerar que una denuncia se corresponde efectivamente con una “ampliación”, es condición que quien se comunica informe, con absoluta rigurosidad, el número de denuncia previa.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 187 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-187-APN-MJ.pdf), del 9 de Marzo de 2018.
