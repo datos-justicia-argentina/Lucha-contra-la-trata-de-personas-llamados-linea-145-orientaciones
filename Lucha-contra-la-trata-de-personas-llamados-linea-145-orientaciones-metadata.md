@@ -1,7 +1,7 @@
 Lucha contra la trata de personas - Llamados línea 145 - Orientaciones
 ----------------------------------------------------------------------
 
-Este conjunto de datos contiene las orientaciones llevadas a cabo ante comunicaciones recibidas por la Línea 145 en las cuales se describen hechos que no reunen los requisitos para constituir una denuncia o no están vinculadas con el delito de trata de personas, pero que requieren algún tipo de prestación, ya sea por vincularse con otros delitos, situaciones de extrema vulnerabilidad o requerir articulación con otros organismos.
+En este conjunto de datos se detallan las orientaciones llevadas a cabo ante comunicaciones recibidas por la Línea 145 en las cuales se describen hechos que no encuentran vinculación con el delito de trata de personas, pero que merecen algún tipo de prestación, ya sea por vincularse con otros delitos, situaciones de extrema vulnerabilidad o requerir articulación con otros organismos.
 
 http://datos.jus.gob.ar/dataset/lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones
 
