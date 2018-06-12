@@ -58,9 +58,9 @@ Recursos disponibles
 
 -   **orientacion_provincia (string):** provincia desde la cual se requiere orientación
 
--   **derivacion_seguimiento (string):** registra si es procedente o no dar intervención al área de Seguimiento
+-   **derivacion_seguimiento (string):** registra si es procedente o no dar intervención al área de seguimiento
 
--   **derivacion_tratamiento (string):** registra el tratamiento dado por el área de seguimiento. Ello implica, en un primer momento, establecer nuevamente contacto con la persona que se comunicó y originó la orientación en cuestión, y en función de ello articular con Organismos competentes, entregando un Informe de  situación que les  será derivado.  Puede tomar los siguientes valores:
+-   **derivacion_tratamiento (string):** registra el tratamiento dado por el área de seguimiento. Ello implica, en un primer momento, establecer nuevamente contacto con la persona que se comunicó y originó la orientación en cuestión, y en función de ello articular con organismos competentes, entregando un informe de  situación que les  será derivado.  Puede tomar los siguientes valores:
 
     -   No fue derivada a seguimiento
     -   En curso
