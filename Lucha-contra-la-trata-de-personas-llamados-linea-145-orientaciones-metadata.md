@@ -78,7 +78,7 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
--   **Rango temporal:** llamados recibidos desde enero de AAAA hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** llamados recibidos desde enero de 2018 hasta la fecha consignada como "Datos actualizados al"
     
 ### Notas
 
