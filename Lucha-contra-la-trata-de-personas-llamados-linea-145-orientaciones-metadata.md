@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Lucha contra la trata de personas llamados línea 145 – AAAA-MM
+### Lucha contra la trata de personas orientaciones línea 145 – AAAA-MM
 
 -   **Nombre del archivo:** lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones-AAAA-MM.csv
 
@@ -69,6 +69,16 @@ Recursos disponibles
     -   Informe derivado a un organismo de tercera edad
     -   Informe derivado a un organismo de discapacidad
     -   Otros (incluye derivación de denuncias a las comisarías locales para el conocimiento de la fiscalía o juzgado de turno)
+ 
+### Lucha contra la trata de personas orientaciones línea 145 – AAAA
+
+-   **Nombre del archivo:** lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones-AAAA-MM.zip
+
+**Descripción del contenido:** detalle de las orientaciones efectuadas ante comunicaciones recibidas en la línea 145 relacionadas con hechos no vinculados con el delito de trata, pero si con otros delitos, situaciones de extrema vulnerabilidad o que requieren intervención de otros organismos
+
+-   **Formato:** ZIP
+
+-   **Rango temporal:** llamados recibidos desde enero de AAAA hasta la fecha consignada como "Datos actualizados al"
     
 ### Notas
 
