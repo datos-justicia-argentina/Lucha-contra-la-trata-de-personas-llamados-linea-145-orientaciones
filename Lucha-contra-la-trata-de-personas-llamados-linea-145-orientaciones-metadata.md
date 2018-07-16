@@ -58,27 +58,15 @@ Recursos disponibles
 
 -   **orientacion_provincia (string):** provincia desde la cual se requiere orientación
 
--   **derivacion_seguimiento (string):** registra si es procedente o no dar intervención al área de seguimiento
+-   **orientacion_seguimiento (string):** registra si es procedente o no dar intervención al área de seguimiento
 
--   **derivacion_tratamiento (string):** registra el tratamiento dado por el área de seguimiento. Ello implica, en un primer momento, establecer nuevamente contacto con la persona que se comunicó y originó la orientación en cuestión, y en función de ello articular con organismos competentes, entregando un informe de  situación que les  será derivado.  Puede tomar los siguientes valores:
-
-    -   No fue derivada a seguimiento
-    -   En curso
-    -   No requirió derivación. Seguimiento cerrado (se determina luego de haber establecido contacto con la persona y/o el entorno).
-    -   Informe derivado a un organismo de niñez
-    -   Informe derivado a un organismo de tercera edad
-    -   Informe derivado a un organismo de discapacidad
-    -   Otros (incluye derivación de denuncias a las comisarías locales para el conocimiento de la fiscalía o juzgado de turno)
- 
 ### Lucha contra la trata de personas orientaciones línea 145 – AAAA
 
--   **Nombre del archivo:** lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones-AAAA-MM.zip
+-   **Nombre del archivo:** lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones-AAAA.zip
 
-**Descripción del contenido:** detalle de las orientaciones efectuadas ante comunicaciones recibidas en la línea 145 relacionadas con hechos no vinculados con el delito de trata, pero si con otros delitos, situaciones de extrema vulnerabilidad o que requieren intervención de otros organismos
+**Descripción del contenido:** detalle de las orientaciones efectuadas ante comunicaciones recibidas en la línea 145 relacionadas con hechos no vinculados con el delito de trata, pero si con otros delitos, situaciones de extrema vulnerabilidad o que requieren intervención de otros organismos correspondientes al año 2018
 
 -   **Formato:** ZIP
-
--   **Rango temporal:** llamados recibidos desde enero de 2018 hasta la fecha consignada como "Datos actualizados al"
     
 ### Notas
 
