@@ -37,7 +37,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **orientacion_fecha (date)**: fecha en que se atendió el llamado. Formato AAAA-MM-DD.
+-   **orientacion_fecha (date)**: fecha en que se atendió el llamado. Formato AAAA-MM-DD
 
 -   **orientacion_tipo (string)**: refiere a la clase de problemática en la cual se encuadran los hechos  por los cuales la persona se comunica. Puede tomar los siguientes valores:
 
