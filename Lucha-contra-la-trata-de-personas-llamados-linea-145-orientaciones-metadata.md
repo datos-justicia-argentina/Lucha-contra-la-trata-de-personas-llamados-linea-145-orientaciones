@@ -60,6 +60,9 @@ Recursos disponibles
 
 -   **orientacion_seguimiento (string):** registra si es procedente o no dar intervención al área de seguimiento
 
+-   **orientacion_provincia_indec_id (string):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+
+
 ### Lucha contra la trata de personas orientaciones línea 145 – AAAA
 
 -   **Nombre del archivo:** lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones-AAAA.zip
