@@ -81,7 +81,7 @@ Recursos disponibles
 
 -   **orientacion_provincia (string):** provincia desde la cual se requiere orientación
 
--   **orientacion_provincia_indec_id (string):** código de provincia desde la cual se requiere orientación, según la codificación de provincia implementada por INDEC
+-   **orientacion_provincia_id (string):** código de provincia desde la cual se requiere orientación, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo orientacion_provincia_indec_id)
 
 
 ### Lucha contra la trata de personas orientaciones línea 145 – AAAA
