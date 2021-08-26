@@ -15,11 +15,11 @@ Características
 
 -   **Tags o Etiquetas:** 145, trata, explotación, oferta sexual, desapariciones, grooming, captaciones, víctimas, género, vulnerabilidades, orientaciones, conflicto vecinal, adicciones, consumo, abuso infantil, denuncia
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
 
 -   **Grupo:** Acceso a Justicia
 
