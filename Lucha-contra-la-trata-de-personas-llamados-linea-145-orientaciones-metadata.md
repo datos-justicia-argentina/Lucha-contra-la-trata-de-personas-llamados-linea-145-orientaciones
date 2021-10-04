@@ -82,8 +82,6 @@ Recursos disponibles
 
 -   **localidad(string):** localidad en la que aconteció el hecho referido
 
--   **barrio (string):** barrio en el que aconteció el hecho referido
-
 -   **dependencia_alta (string):** dependencia que recibió la consulta
 
 -   **via_ingreso(string):** medio a través del cual ingresa la consulta. Puede tomar los valores:
