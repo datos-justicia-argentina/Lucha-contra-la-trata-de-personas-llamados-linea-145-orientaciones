@@ -15,11 +15,11 @@ Características
 
 -   **Tags o Etiquetas:** 145, trata, explotación, oferta sexual, desapariciones, grooming, captaciones, víctimas, género, vulnerabilidades, orientaciones, conflicto vecinal, adicciones, consumo, abuso infantil, denuncia
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Política Criminal. Programa Nacional de Rescate y Acompañamiento a las Personas Damnificadas por el Delito de Trata
 
 -   **Grupo:** Acceso a Justicia
 
@@ -248,4 +248,4 @@ Recursos disponibles
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 187 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-187-APN-MJ.pdf), del 9 de Marzo de 2018.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 187 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2018-187-APN-MJ.pdf), del 9 de Marzo de 2018.
